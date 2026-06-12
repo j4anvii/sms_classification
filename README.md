@@ -13,5 +13,4 @@ We will use a RNN based model to perform classification of SMS messages into Spa
 
 ## Project Member
 
-- Ishaan Seth (EE23B110)
 - Janvi Kumari (BCA4503922)
